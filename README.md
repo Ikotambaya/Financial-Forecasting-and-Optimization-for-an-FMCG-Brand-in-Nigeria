@@ -1,4 +1,5 @@
 # 📊 Milo Company Dashboard
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milo-dashboard-zcaoa4sakqy6godrqhqckm.streamlit.app/)
 
 A data analytics project simulating operations for a Milo production company in Nigeria, including:
 - Revenue and expense simulation
